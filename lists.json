@@ -181,14 +181,24 @@
         "license-identifier": "GPL2"
     },
     {
-        "name": "d3Host List by d3ward",
-        "url": "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.adblock",
+        "name": "1Hosts Lite",
+        "url": "https://o0.pages.dev/Lite/adblock.txt",
         "format": "adbp",
         "type": "ads",
-        "outputfile": "d3.list",
-        "moreinformation": "https://github.com/d3ward/toolz",
-        "description": "Simple and small list with the most popular advertising, tracking, analytics and social advertising services.",
-        "license-identifier": "CC BY-NC-SA"
+        "outputfile": "1hl.list",
+        "moreinformation": "https://github.com/badmojr/1Hosts",
+        "description": "Safeguard your device(s) against pesky ads, trackers, and malware. Balanced; set & forget, recommended.",
+        "license-identifier": "MPL-2.0"
+    },
+    {
+        "name": "1Hosts Pro",
+        "url": "https://o0.pages.dev/Pro/adblock.txt",
+        "format": "adbp",
+        "type": "ads",
+        "outputfile": "1hp.list",
+        "moreinformation": "https://github.com/badmojr/1Hosts",
+        "description": "Somewhat strict; may introduce some sporadic minor breakages, favors privacy & adblocking over a flawless UX",
+        "license-identifier": "MPL-2.0"
     },
     {
         "name": "NoCoin Filter",
