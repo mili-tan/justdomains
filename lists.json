@@ -138,7 +138,8 @@
         "outputfile": "oisdbig.list",
         "moreinformation": "https://oisd.nl/",
         "description": "OISD - Domain Blocklist - Since november 2018",
-        "license-identifier": "CC BY-SA 3.0"
+        "license-identifier": "CC BY-SA 3.0",
+        "Aggressive": true
     },
     {
         "name": "Hagezi Blocklists Light",
@@ -158,7 +159,8 @@
         "outputfile": "hagezi-normal.list",
         "moreinformation": "https://github.com/hagezi/dns-blocklists",
         "description": "Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.",
-        "license-identifier": "CC BY-NC-SA 3.0"
+        "license-identifier": "CC BY-NC-SA 3.0",
+        "Aggressive": true
     },
     {
         "name": "Blackmatrix7's Advertising Rules",
@@ -168,7 +170,8 @@
         "outputfile": "bm7.list",
         "moreinformation": "https://github.com/blackmatrix7/ios_rule_script",
         "description": "由 Blackmatrix7 创建的分流规则、重写规则及脚本。",
-        "license-identifier": "GPL2"
+        "license-identifier": "GPL2",
+        "Aggressive": true
     },
     {
         "name": "Blackmatrix7's Advertising Rules Lite",
@@ -198,7 +201,8 @@
         "outputfile": "1hp.list",
         "moreinformation": "https://github.com/badmojr/1Hosts",
         "description": "Somewhat strict; may introduce some sporadic minor breakages, favors privacy & adblocking over a flawless UX",
-        "license-identifier": "MPL-2.0"
+        "license-identifier": "MPL-2.0",
+        "Aggressive": true
     },
     {
         "name": "NoCoin Filter",
@@ -238,7 +242,8 @@
         "outputfile": "hagezi-bypass.list",
         "moreinformation": "https://github.com/hagezi/dns-blocklists#bypass",
         "description": "阻止通过其他 DoH、VPN、TOR、Proxy 等方式绕过拦截。",
-        "license-identifier": "CC BY-NC-SA 3.0"
+        "license-identifier": "CC BY-NC-SA 3.0",
+        "Aggressive": true
     },
     {
         "name": "DDNS Filter",
@@ -248,7 +253,8 @@
         "outputfile": "ddns.list",
         "moreinformation": "https://github.com/alexandrosmagos/dyn-dns-list",
         "description": "拦截可能的 DDNS 服务域名，若您正在使用 DDNS 可能将受到影响。",
-        "license-identifier": "Unlicense"
+        "license-identifier": "Unlicense",
+        "Aggressive": true
     },
     {
         "name": "IPFS Filter",
