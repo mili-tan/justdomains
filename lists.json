@@ -17,7 +17,7 @@
         "type": "ads",
         "outputfile": "stevenblack.list",
         "moreinformation": "https://github.com/StevenBlack/hosts",
-        "description": "由 Steven Black 创建的经过精心筛选的聚合 Hosts。",
+        "description": "由 Steven Black 创建的经过精心筛选的聚合 Hosts。Yoyos Hosts 已包含在内无需重复订阅。",
         "license-identifier": "MIT"
     },
     {
@@ -37,7 +37,7 @@
         "type": "ads",
         "outputfile": "adrules.list",
         "moreinformation": "https://github.com/Cats-Team/AdRules",
-        "description": "用于阻止中文地区广告的列表。",
+        "description": "用于阻止中文地区广告的列表。AdGuard Filter 已包含在内无需重复订阅。",
         "license-identifier": "WTFPL"
     },
     {
@@ -67,7 +67,7 @@
         "type": "privacy",
         "moreinformation": "https://easylist.to/",
         "outputfile": "easyprivacy.list",
-        "description": "EasyPrivacy 是一个可选的补充过滤器列表，可从 Internet 上完全删除所有形式的跟踪，包括网络错误、跟踪脚本和信息收集器，从而保护您的个人数据。 ",
+        "description": "EasyPrivacy 是一个可选的补充过滤器列表，可从 Internet 上完全删除所有形式的跟踪，包括侦错、遥测、跟踪脚本和信息收集器，从而保护您的个人数据。 ",
         "license-identifier": "GPL3 / CC BY-SA 3.0"
     },
     {
@@ -77,7 +77,7 @@
         "format": "adbp",
         "type": "privacy",
         "moreinformation": "https://github.com/cjx82630/cjxlist",
-        "description": "消除了中文网站上的骚扰内容、自我宣传和隐私保护。",
+        "description": "消除了中文网站上的骚扰内容、自我宣传，以及保护隐私。",
         "license-identifier": "LGPL-3.0"
     },
     {
@@ -87,7 +87,7 @@
         "type": "privacy",
         "outputfile": "fanboy-annoyance.list",
         "moreinformation": "https://easylist.to/",
-        "description": "Fanboy 的烦恼列表阻止社交媒体内容、页面内弹出窗口和其他骚扰； 从而大大减少网页加载时间并使它们变得整洁。 EasyList Cookie List 和 Fanboy's Social Blocking List 已经将其包含在内，如果您已有 Fanboy's Annoyance List，则无需订阅。 ",
+        "description": "Fanboy 的阻止烦恼列表，消除社交媒体内容、页面内弹出窗口和其他骚扰； 从而大大减少网页加载时间并使它们变得整洁。 EasyList Cookie List 和 Fanboy's Social Blocking List 已经将其包含在内，如果您已有 Fanboy's Annoyance List，则无需订阅。 ",
         "license-identifier": "CC BY 3.0"
     },
     {
