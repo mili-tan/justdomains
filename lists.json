@@ -270,7 +270,7 @@
         "Aggressive": true
     },
     {
-        "name": "Anti SafeSearch Bypass",
+        "name": "Search Filter",
         "url": "https://dns-mili-tan.koyeb.app/tohosts/raw.githubusercontent.com/nextdns/no-safesearch/refs/heads/main/domains",
         "format": "hosts",
         "type": "functional",
