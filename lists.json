@@ -18,7 +18,8 @@
         "outputfile": "stevenblack.list",
         "moreinformation": "https://github.com/StevenBlack/hosts",
         "description": "由 Steven Black 创建的经过精心筛选的聚合 Hosts。Yoyos Hosts 已包含在内无需重复订阅。",
-        "license-identifier": "MIT"
+        "license-identifier": "MIT",
+        "Aggressive": true
     },
     {
         "name": "Yoyos Hosts",
@@ -28,7 +29,8 @@
         "outputfile": "yoyo.list",
         "moreinformation": "https://pgl.yoyo.org/adservers/",
         "description": "阻止广告、跟踪器和其他讨厌的东西的阻止列表。",
-        "license-identifier": "MCRAE GENERAL PUBLIC LICENSE"
+        "license-identifier": "MCRAE GENERAL PUBLIC LICENSE",
+        "Aggressive": true
     },
     {
         "name": "AdRules DNS List",
