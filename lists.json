@@ -266,7 +266,8 @@
         "outputfile": "ipfs.list",
         "moreinformation": "https://github.com/ipfs/public-gateway-checker/",
         "description": "拦截可能的 IPFS 公共网关服务域名，IPFS 相关分布式资源将受到影响。",
-        "license-identifier": "MIT"
+        "license-identifier": "MIT",
+        "Aggressive": true
     },
     {
         "name": "Anti SafeSearch Bypass",
@@ -276,7 +277,8 @@
         "outputfile": "nosafesearch.list",
         "moreinformation": "https://searx.space/",
         "description": "拦截不支持安全搜索的搜索引擎、SearX 公共实例等安全搜索绕过方式。",
-        "license-identifier": "MIT"
+        "license-identifier": "MIT",
+        "Aggressive": true
     },
     {
         "name": "NextDNS Native Tracking Filter",
