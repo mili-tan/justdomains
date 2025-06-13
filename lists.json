@@ -217,14 +217,14 @@
         "license-identifier": "MIT"
     },
     {
-        "name": "CoinBlockerLists",
-        "url": "https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/hosts.txt",
+        "name": "Prigent Crypto",
+        "url": "https://dns-mili-tan.koyeb.app/tohosts/v.firebog.net/hosts/Prigent-Crypto.txt",
         "format": "hosts",
         "type": "functional",
         "outputfile": "coinblocker.list",
-        "moreinformation": "https://github.com/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/blob/master/LICENSE",
+        "moreinformation": "https://dsi.ut-capitole.fr/blacklists/",
         "description": "此列表用于禁用基于浏览器的挖矿程序，例如 coin-hive。",
-        "license-identifier": "MIT"
+        "license-identifier": "CC BY-SA 4.0"
     },
     {
         "name": "Hagezi Anti Bypass",
@@ -359,5 +359,15 @@
         "moreinformation": "https://github.com/privacy-protection-tools/anti-AD/tree/master/discretion",
         "description": "阻止部分应用后台使用用户网络带宽对外提供上传服务，为自身减少带宽压力或是直接牟利。这会影响用户的网络体验，增加设备功耗减少电池使用时间。",
         "license-identifier": "MIT"
+    },
+    {
+        "name": "KAD",
+        "url": "https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt",
+        "format": "adbp",
+        "type": "functional",
+        "outputfile": "kad.list",
+        "moreinformation": "https://kadantiscam.netlify.app/en/",
+        "description": "用于拦截钓鱼网站和恶意软件的危险网站警告列表。",
+        "license-identifier": "CC BY-SA 4.0"
     }
 ]
