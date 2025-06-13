@@ -151,7 +151,7 @@
         "outputfile": "hagezi.list",
         "moreinformation": "https://github.com/hagezi/dns-blocklists",
         "description": "Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics, some Malware and Fake.",
-        "license-identifier": "CC BY-NC-SA 3.0"
+        "license-identifier": "GPL3"
     },
     {
         "name": "Hagezi Blocklists Normal",
@@ -161,7 +161,7 @@
         "outputfile": "hagezi-normal.list",
         "moreinformation": "https://github.com/hagezi/dns-blocklists",
         "description": "Broom - Cleans the Internet and protects your privacy! Blocks Ads, Affiliate, Tracking, Metrics, Telemetry, Phishing, Malware, Scam, Fake, Coins and other Crap.",
-        "license-identifier": "CC BY-NC-SA 3.0",
+        "license-identifier": "GPL3",
         "Aggressive": true
     },
     {
@@ -218,13 +218,13 @@
     },
     {
         "name": "CoinBlockerLists",
-        "url": "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/hosts",
+        "url": "https://github.com/hoshsadiq/adblock-nocoin-list/blob/master/hosts.txt",
         "format": "hosts",
         "type": "functional",
         "outputfile": "coinblocker.list",
-        "moreinformation": "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/blob/master/LICENSE",
+        "moreinformation": "https://github.com/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/blob/master/LICENSE",
         "description": "此列表用于禁用基于浏览器的挖矿程序，例如 coin-hive。",
-        "license-identifier": "AGPL3"
+        "license-identifier": "MIT"
     },
     {
         "name": "Hagezi Anti Bypass",
@@ -234,7 +234,7 @@
         "outputfile": "hagezi-bypass.list",
         "moreinformation": "https://github.com/hagezi/dns-blocklists#bypass",
         "description": "阻止通过其他 DoH、VPN、TOR、Proxy 等方式绕过拦截。",
-        "license-identifier": "CC BY-NC-SA 3.0",
+        "license-identifier": "GPL3",
         "Aggressive": true
     },
     {
@@ -271,14 +271,34 @@
         "Aggressive": true
     },
     {
-        "name": "NextDNS Native Tracking Filter",
-        "url": "https://dns-mili-tan.koyeb.app/filestohosts/alexa,apple,huawei,roku,samsung,sonos,windows,xiaomi/raw.githubusercontent.com/nextdns/native-tracking-domains/refs/heads/main/domains",
+        "name": "Hagezi Mobile Native Tracking Filter",
+        "url": "https://dns-mili-tan.koyeb.app/filestohosts/native.apple-onlydomains.txt,native.huawei-onlydomains.txt,native.samsung.txt,native.vivo-onlydomains.txt,native.oppo-realme-onlydomains.txt,native.xiaomi-onlydomains.txt/raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard",
         "format": "hosts",
         "type": "privacy",
         "outputfile": "nativetracking.list",
         "moreinformation": "https://github.com/nextdns/native-tracking-domains/",
-        "description": "拦截通常在设备、系统级运行的原生跟踪行为，阻止来自软件或设备制造厂商的跟踪。",
-        "license-identifier": "MIT"
+        "description": "拦截通常在移动设备、系统级运行的原生跟踪行为，阻止来自 Apple、Huawei、Samsung、Oppo(Realme)、Xiaomi 等设备制造厂商的跟踪。",
+        "license-identifier": "GPL3"
+    },
+    {
+        "name": "Hagezi Software Native Tracking Filter",
+        "url": "https://dns-mili-tan.koyeb.app/filestohosts/native.winoffice-onlydomains.txt,native.amazon-onlydomains.txt,native.tiktok-onlydomains.txt/raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard",
+        "format": "hosts",
+        "type": "privacy",
+        "outputfile": "nativesoft.list",
+        "moreinformation": "https://github.com/nextdns/native-tracking-domains/",
+        "description": "拦截通常软件、操作系统、应用内嵌的原生跟踪行为，阻止来自 Amazon、Microsoft、ByteDance TikTok 等软件厂商的跟踪。",
+        "license-identifier": "GPL3"
+    },
+    {
+        "name": "Hagezi TV Native Tracking Filter",
+        "url": "https://dns-mili-tan.koyeb.app/filestohosts/native.lgwebos.txt,native.roku.txt/raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard",
+        "format": "hosts",
+        "type": "privacy",
+        "outputfile": "nativetv.list",
+        "moreinformation": "https://github.com/nextdns/native-tracking-domains/",
+        "description": "拦截通常在 Smart TV 系统级运行的原生跟踪行为，阻止来自 LG WebOS、Roku 等设备制造厂商的跟踪。",
+        "license-identifier": "GPL3"
     },
     {
         "name": "Blackmatrix7's MiTV Rules",
