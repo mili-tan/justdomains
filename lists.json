@@ -17,7 +17,7 @@
         "type": "ads",
         "outputfile": "stevenblack.list",
         "moreinformation": "https://github.com/StevenBlack/hosts",
-        "description": "由 Steven Black 创建的经过精心筛选的聚合 Hosts。Yoyos Hosts 已包含在内无需重复订阅。",
+        "description": "由 Steven Black 创建的经过精心筛选的聚合 Hosts。本规则已包含 Yoyos Hosts 无需重复订阅。",
         "license-identifier": "MIT",
         "Aggressive": true
     },
@@ -39,7 +39,7 @@
         "type": "ads",
         "outputfile": "adrules.list",
         "moreinformation": "https://github.com/Cats-Team/AdRules",
-        "description": "用于阻止中文地区广告的列表。AdGuard Filter 已包含在内无需重复订阅。",
+        "description": "用于阻止中文地区广告的列表。本规则已包含 AdGuard Filter 无需重复订阅。",
         "license-identifier": "WTFPL"
     },
     {
