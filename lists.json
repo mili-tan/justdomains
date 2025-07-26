@@ -171,7 +171,7 @@
         "type": "ads",
         "outputfile": "bm7.list",
         "moreinformation": "https://github.com/blackmatrix7/ios_rule_script",
-        "description": "由 Blackmatrix7 创建的分流规则、重写规则及脚本。",
+        "description": "由 Blackmatrix7 创建的规则及脚本。",
         "license-identifier": "GPL2",
         "Aggressive": true
     },
@@ -182,7 +182,7 @@
         "type": "ads",
         "outputfile": "bm7l.list",
         "moreinformation": "https://github.com/blackmatrix7/ios_rule_script",
-        "description": "由 Blackmatrix7 创建的分流规则、重写规则及脚本，简化版。",
+        "description": "由 Blackmatrix7 创建的规则及脚本，简化版。",
         "license-identifier": "GPL2"
     },
     {
@@ -320,7 +320,7 @@
         "type": "functional",
         "outputfile": "bm7mitv.list",
         "moreinformation": "https://github.com/blackmatrix7/ios_rule_script",
-        "description": "由 Blackmatrix7 创建的分流规则、重写规则及脚本。",
+        "description": "由 Blackmatrix7 创建的 MiTV 相关规则及脚本。",
         "license-identifier": "GPL2"
     },
     {
