@@ -351,7 +351,8 @@
         "outputfile": "anti-ad-dns.list",
         "moreinformation": "https://github.com/privacy-protection-tools/anti-AD/tree/master/discretion",
         "description": "阻止部分程序通过使用内置加密 DNS（DoH, DoT 等）绕过本地 DNS 进行域名解析，防止 DNS 实现的拦截失效。",
-        "license-identifier": "MIT"
+        "license-identifier": "MIT",
+        "Aggressive": true
     },
     {
         "name": "Anti-AD Auto Number Verification",
@@ -371,7 +372,8 @@
         "outputfile": "anti-ad-pcdn.list",
         "moreinformation": "https://github.com/privacy-protection-tools/anti-AD/tree/master/discretion",
         "description": "阻止部分应用后台使用用户网络带宽对外提供上传服务，为自身减少带宽压力或是直接牟利。这会影响用户的网络体验，增加设备功耗减少电池使用时间。",
-        "license-identifier": "MIT"
+        "license-identifier": "MIT",
+        "Aggressive": true
     },
     {
         "name": "KAD",
