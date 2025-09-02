@@ -113,13 +113,13 @@
         "license-identifier": "CC BY-SA 3.0"
     },
     {
-        "name": "AWAvenue Adblock Rule",
+        "name": "AWAvenue Ads Rule",
         "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
         "format": "adbp",
         "type": "ads",
         "outputfile": "awavenue.list",
         "moreinformation": "https://github.com/TG-Twilight/AWAvenue-Adblock-Rule",
-        "description": "从网络层面对抗 Android 应用中的各种广告 SDK，阻止其加载。",
+        "description": "从网络层面对抗 Android 应用中的各种广告 SDK，阻止其加载。(秋风广告规则)",
         "license-identifier": "CC BY-NC-SA 4.0"
     },
     {
