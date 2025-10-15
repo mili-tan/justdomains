@@ -384,5 +384,26 @@
         "moreinformation": "https://kadantiscam.netlify.app/en/",
         "description": "用于拦截钓鱼网站和恶意软件的危险网站警告列表。",
         "license-identifier": "CC BY-SA 4.0"
+    },
+    {
+        "name": "Energized Spark",
+        "url": "https://energized.pro/spark/adblock.txt",
+        "format": "adbp",
+        "type": "ads",
+        "outputfile": "e-spark.list",
+        "moreinformation": "https://energized.pro/",
+        "description": "Let's make an annoyance free, better open internet, altogether! Lightweight, Essential protection.",
+        "license-identifier": "MIT"
+    },
+    {
+        "name": "Energized Blu",
+        "url": "https://energized.pro/blu/adblock.txt",
+        "format": "adbp",
+        "type": "ads",
+        "outputfile": "e-spark.list",
+        "moreinformation": "https://energized.pro/",
+        "description": "Let's make an annoyance free, better open internet, altogether! Balanced, Extended protection.",
+        "license-identifier": "MIT",
+        "Aggressive": true
     }
 ]
