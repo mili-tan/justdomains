@@ -400,7 +400,7 @@
         "url": "https://energized.pro/blu/adblock.txt",
         "format": "adbp",
         "type": "ads",
-        "outputfile": "e-spark.list",
+        "outputfile": "e-blu.list",
         "moreinformation": "https://energized.pro/",
         "description": "Let's make an annoyance free, better open internet, altogether! Balanced, Extended protection.",
         "license-identifier": "MIT",
