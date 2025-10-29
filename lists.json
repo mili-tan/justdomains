@@ -22,7 +22,7 @@
         "Aggressive": true
     },
     {
-        "name": "Yoyos Hosts",
+        "name": "PeterLowe's Blocklist",
         "url": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
         "format": "hosts",
         "type": "ads",
@@ -378,6 +378,16 @@
     {
         "name": "KAD",
         "url": "https://raw.githubusercontent.com/FiltersHeroes/KAD/master/KAD.txt",
+        "format": "adbp",
+        "type": "functional",
+        "outputfile": "kad.list",
+        "moreinformation": "https://kadantiscam.netlify.app/en/",
+        "description": "用于拦截钓鱼网站和恶意软件的危险网站警告列表。",
+        "license-identifier": "CC BY-SA 4.0"
+    },
+    {
+        "name": "uBlock Badware Risks Filters",
+        "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
         "format": "adbp",
         "type": "functional",
         "outputfile": "kad.list",
