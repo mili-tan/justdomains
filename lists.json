@@ -390,9 +390,9 @@
         "url": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt",
         "format": "adbp",
         "type": "functional",
-        "outputfile": "kad.list",
-        "moreinformation": "https://kadantiscam.netlify.app/en/",
-        "description": "用于拦截钓鱼网站和恶意软件的危险网站警告列表。",
-        "license-identifier": "CC BY-SA 4.0"
+        "outputfile": "ubbadware.list",
+        "moreinformation": "https://github.com/uBlockOrigin/uAssets",
+        "description": "对于已被证实会使用户面临安装广告软件/垃圾软件/恶意软件、登录凭证被盗等风险的网站，至少确保用户能够提前了解风险。",
+        "license-identifier": "GPL3"
     }
 ]
