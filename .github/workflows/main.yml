@@ -21,6 +21,7 @@ jobs:
           python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
       - name: 'Install dependencies'
         run: |
+          echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: 'Convert Lists'
@@ -29,7 +30,6 @@ jobs:
         run: python ./buildrepo.py $HOME/ci/converted/ $HOME/ci/built/ --downloadbaseurl https://mili-tan.github.io/justdomains/ -vv
       - name: Commit files
         run: |
-          echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf
           cp lists.json /home/runner/ci/built
           cd /home/runner/ci/built
           git init
