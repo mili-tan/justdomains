@@ -29,6 +29,7 @@ jobs:
         run: python ./buildrepo.py $HOME/ci/converted/ $HOME/ci/built/ --downloadbaseurl https://mili-tan.github.io/justdomains/ -vv
       - name: Commit files
         run: |
+          echo "nameserver 8.8.8.8" | sudo tee /etc/resolv.conf
           cp lists.json /home/runner/ci/built
           cd /home/runner/ci/built
           git init
