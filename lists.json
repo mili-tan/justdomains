@@ -185,17 +185,6 @@
         "license-identifier": "MPL-2.0"
     },
     {
-        "name": "1Hosts Pro",
-        "url": "https://o0.pages.dev/Pro/adblock.txt",
-        "format": "adbp",
-        "type": "ads",
-        "outputfile": "1hp.list",
-        "moreinformation": "https://github.com/badmojr/1Hosts",
-        "description": "Somewhat strict; may introduce some sporadic minor breakages, favors privacy & adblocking over a flawless UX",
-        "license-identifier": "MPL-2.0",
-        "Aggressive": true
-    },
-    {
         "name": "NoCoin Filter",
         "url": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
         "format": "hosts",
