@@ -292,6 +292,16 @@
         "Aggressive": true
     },
     {
+        "name": "A-Dove-is-dumb",
+        "url": "https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/refs/heads/main/winhosts.txt",
+        "format": "hosts",
+        "type": "privacy",
+        "outputfile": "a-dove-is-dumb.list",
+        "moreinformation": "https://github.com/ignaciocastro/a-dove-is-dumb",
+        "description": "Quick, easy and painless way of blocking Adobe's telemetry checking servers. Updated continuously, without blocking other network-required features.",
+        "license-identifier": "BSD-2-Clause",
+    },
+    {
         "name": "Blackmatrix7's MiTV Rules",
         "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt",
         "format": "adbp",
