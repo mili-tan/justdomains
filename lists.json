@@ -299,7 +299,7 @@
         "outputfile": "a-dove-is-dumb.list",
         "moreinformation": "https://github.com/ignaciocastro/a-dove-is-dumb",
         "description": "Quick, easy and painless way of blocking Adobe's telemetry checking servers. Updated continuously, without blocking other network-required features.",
-        "license-identifier": "BSD-2-Clause",
+        "license-identifier": "BSD-2-Clause"
     },
     {
         "name": "Blackmatrix7's MiTV Rules",
