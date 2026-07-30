@@ -298,7 +298,7 @@
         "type": "privacy",
         "outputfile": "a-dove-is-dumb.list",
         "moreinformation": "https://github.com/ignaciocastro/a-dove-is-dumb",
-        "description": "Quick, easy and painless way of blocking Adobe's telemetry checking servers. Updated continuously, without blocking other network-required features.",
+        "description": "快速、简便、无痛地阻止 Adob​​e 的遥测服务器。持续更新，不会影响其他网络所需功能。",
         "license-identifier": "BSD-2-Clause"
     },
     {
@@ -382,5 +382,26 @@
         "moreinformation": "https://github.com/uBlockOrigin/uAssets",
         "description": "对于已被证实会使用户面临安装广告软件/垃圾软件/恶意软件、登录凭证被盗等风险的网站，至少确保用户能够提前了解风险。",
         "license-identifier": "GPL3"
+    },
+    {
+        "name": "Iam-py-test's Antitypo List",
+        "url": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/Alternative%20list%20formats/antitypo_hosts.txt",
+        "format": "hosts",
+        "type": "functional",
+        "outputfile": "antitypo.list",
+        "moreinformation": "https://github.com/iam-py-test/my_filters_001/",
+        "description": "有没有在输入地址时按错键，结果到了错误的地方？这份列表旨在避免这种情况发生。",
+        "license-identifier": "CC0-1.0"
+    },
+    {
+        "name": "Iam-py-test's AntiIpLookup List",
+        "url": "https://github.com/iam-py-test/my_filters_001/blob/main/antiiplookup.txt",
+        "format": "adbp",
+        "type": "functional",
+        "outputfile": "antiiplookup.list",
+        "moreinformation": "https://github.com/iam-py-test/my_filters_001/",
+        "description": "此列表旨在屏蔽 IP 地址查找服务，包括那些未被滥用和非 API 服务。这些服务本身并无恶意，但它们有时会被恶意滥用，可能带来隐私风险。",
+        "license-identifier": "CC0-1.0",
+        "Aggressive": true
     }
 ]
