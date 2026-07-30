@@ -400,7 +400,7 @@
         "type": "functional",
         "outputfile": "antiiplookup.list",
         "moreinformation": "https://github.com/iam-py-test/my_filters_001/",
-        "description": "此列表旨在屏蔽 IP 地址查找服务，包括那些未被滥用和非 API 服务。这些服务本身并无恶意，但它们有时会被恶意滥用，可能带来隐私风险。",
+        "description": "此列表旨在屏蔽 IP 地址查找服务，包括那些未被滥用和非 API 服务。这些服务本身并无恶意，但它们有时会被滥用，可能带来隐私风险。",
         "license-identifier": "CC0-1.0",
         "Aggressive": true
     }
