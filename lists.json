@@ -395,13 +395,24 @@
     },
     {
         "name": "Iam-py-test's AntiIpLookup List",
-        "url": "https://github.com/iam-py-test/my_filters_001/blob/main/antiiplookup.txt",
+        "url": "https://raw.githubusercontent.com/iam-py-test/my_filters_001/refs/heads/main/antiiplookup.txt",
         "format": "hosts",
         "type": "functional",
         "outputfile": "antiiplookup.list",
         "moreinformation": "https://github.com/iam-py-test/my_filters_001/",
         "description": "此列表旨在屏蔽 IP 地址查找服务，包括那些未被滥用和非 API 服务。这些服务本身并无恶意，但它们有时会被滥用，可能带来隐私风险。",
         "license-identifier": "CC0-1.0",
+        "Aggressive": true
+    },
+    {
+        "name": "GOODBYEADS",
+        "url": "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt",
+        "format": "adbp",
+        "type": "ads",
+        "outputfile": "goodbyeads.list",
+        "moreinformation": "https://github.com/8680/GOODBYEADS/",
+        "description": "一个强力去广告规则集合，合并优质上游规则并去重整理。本规则已包含 CJX、AWAvenue、OISD、AdGuard、EasyPrivacy 无需重复订阅。",
+        "license-identifier": "MIT",
         "Aggressive": true
     }
 ]
